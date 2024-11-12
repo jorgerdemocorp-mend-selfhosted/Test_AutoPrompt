@@ -1,3 +1,6 @@
 {
-  "settingsInheritedFrom": "jorgerdemocorp-mend-selfhosted/whitesource-config@main"
+  "settingsInheritedFrom": "jorgerdemocorp-mend-selfhosted/whitesource-config@main",
+  "remediateSettings": {
+    "enableRenovate": true
+ } 
 }
